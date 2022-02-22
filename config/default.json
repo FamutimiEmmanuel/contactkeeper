@@ -1,0 +1,4 @@
+{
+     "mongoURI": "mongodb+srv://oladayo12:oladayo12@cluster0.bfgi6.mongodb.net/Cluster0?authSource=admin&replicaSet=atlas-rxp6cr-shard-0&readPreference=primary&appname=MongoDB%20Compass&ssl=true",
+     "jwtsecret": "secret"
+}
